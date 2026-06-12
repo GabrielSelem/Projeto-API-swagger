@@ -1,0 +1,46 @@
+body {
+    background: #f4f4f4;
+}
+
+.container {
+    padding: 40px;
+    font-family: Arial;
+}
+
+.formulario {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.formulario input {
+    padding: 10px;
+}
+
+.formulario button {
+    padding: 10px 20px;
+    background: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+    background: white;
+    border-collapse: collapse;
+}
+
+table th,
+table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+}
+
+table button {
+    padding: 6px 12px;
+    background: #dc3545;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
